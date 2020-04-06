@@ -6,11 +6,4 @@
 
 
 <VBox xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/11.0.1">
-   <children>
-      <AnchorPane prefHeight="250.0" prefWidth="250.0">
-         <children>
-            <TextField fx:id="ohadTF" alignment="CENTER" layoutX="24.0" layoutY="42.0" prefHeight="42.0" prefWidth="149.0" text="Ohad Fridman" />
-         </children>
-      </AnchorPane>
-   </children>
 </VBox>
